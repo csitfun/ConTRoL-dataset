@@ -14,8 +14,8 @@ from torch.utils.data import Dataset, DataLoader, DistributedSampler, RandomSamp
 import config
 from transformers import AdamW
 from transformers import get_linear_schedule_with_warmup
-from flint.data_utils.batchbuilder import BaseBatchBuilder, move_to_device
-from flint.data_utils.fields import RawFlintField, LabelFlintField, ArrayIndexFlintField
+from data_utils.batchbuilder import BaseBatchBuilder, move_to_device
+from data_utils.fields import RawFlintField, LabelFlintField, ArrayIndexFlintField
 from utils import common, list_dict_data_tool, save_tool
 import os
 import torch.multiprocessing as mp
