@@ -2,9 +2,9 @@ import argparse
 from pathlib import Path
 
 import config
-from flint.data_utils.fields import RawFlintField, LabelFlintField, ArrayIndexFlintField
+from data_utils.fields import RawFlintField, LabelFlintField, ArrayIndexFlintField
 from utils import common, list_dict_data_tool, save_tool
-from src.nli.training import MODEL_CLASSES, registered_path, build_eval_dataset_loader_and_sampler, NLITransform, \
+from src.training import MODEL_CLASSES, registered_path, build_eval_dataset_loader_and_sampler, NLITransform, \
     NLIDataset, count_acc, evaluation_dataset, eval_model
 
 import torch
