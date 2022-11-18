@@ -18,20 +18,4 @@ pages={13388-13396}
 }
 ```
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="github.com/csitfun/ConTRoL-dataset">
-    <span property="dct:title">csitfun</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A dataset for Natural Language Inference over Long Texts</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="CN" about="github.com/csitfun/ConTRoL-dataset">
-  China Mainland</span>.
-</p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
